@@ -1,0 +1,5 @@
+XSym
+0057
+1765623e6f59a864ea10f8328a7be4d1
+../../../AFNetworking/AFNetworking/AFHTTPSessionManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

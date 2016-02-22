@@ -1,0 +1,6 @@
+framework module BaoFooPay {
+  umbrella header "BaoFooPay.h"
+
+  export *
+  module * { export * }
+}

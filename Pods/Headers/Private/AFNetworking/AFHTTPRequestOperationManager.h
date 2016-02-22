@@ -1,0 +1,5 @@
+XSym
+0066
+082f0b51affad1df9bb0d2f0211e3072
+../../../AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

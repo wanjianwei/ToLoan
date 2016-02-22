@@ -1,0 +1,5 @@
+XSym
+0065
+a191084c16e09fc6f96c4366f778736b
+../../../AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
